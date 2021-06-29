@@ -23,4 +23,4 @@ anagram('Hello', '')
 
 ## Requirements
 - Pass all the tests
-- To run the tests: `yarn run mocha anagram.test.js`
+- To run the tests: `npx mocha anagram.test.js`
